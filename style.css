@@ -1,0 +1,40 @@
+/* body{
+    background-image: url(https://trthaberstatic.cdn.wp.trt.com.tr/resimler/1534000/uzay-astronot-1535263.jpg);
+    background-repeat: no-repeat;
+} */
+#center{
+    margin-top: 60px;
+}
+
+.baslik{
+    color: tomato;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.onyazi{
+    font-size: x-large;
+    margin-top: 80px;
+}
+
+.son{
+    font-size: x-large;
+    color: blueviolet;
+    margin-top: 600px;
+}
+
+#saat{
+    font-size: 3rem;
+    text-align: center;
+    color: rgb(117, 60, 182);
+    margin-top: 200px;
+    float: left;
+} 
+#tarih{
+    font-size: 3rem;
+    text-align: center;
+    color: rgb(1, 23, 56);
+    margin-top: 200px;
+    float: right;
+} 
+
